@@ -14,3 +14,4 @@ Welcome to the Blood Management System - a life-saving application designed to e
 - **Secure and Reliable**: Your data is safe and secure with us, ensuring privacy and trust.
 - **Search and Request**: Quickly search for donors or request blood as needed.
 - **Join the Lifesaving Cause**: Join us in making a difference and saving lives.
+- 
